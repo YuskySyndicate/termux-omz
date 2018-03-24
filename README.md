@@ -1,6 +1,7 @@
 # termux-omz
 
 Simple Script To Setup oh-my-zsh in **Termux** ...
+
 This Setup Contains-
 - Material Color-Scheme
 - Dejavu fonts with powerline support
@@ -22,6 +23,7 @@ $ chmod +x setup
 $ ./setup
 ```
 And... Done, oh-my-zsh successfully installed in your termux.
+
 Here are some previews...
 
 ## Previews
