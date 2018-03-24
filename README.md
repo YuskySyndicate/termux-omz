@@ -26,5 +26,5 @@ Here are some previews...
 
 ## Previews
 
-![preview](https://github.com/adi1090x/termux-omz/blob/master/preview.png) <br />
+![preview](https://github.com/adi1090x/Just_Files/blob/master/preview_omz.png) <br />
 
