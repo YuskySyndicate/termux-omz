@@ -1,11 +1,11 @@
 # termux-omz
 
-Simple Script To Setup *oh-my-zsh* in *Termux*.
+Simple Script To Setup ***oh-my-zsh*** in ***Termux***.
 
 This Setup Contains-
-- *Material* Color-Scheme
-- *Dejavu* fonts with powerline support
-- *Agnoster* Theme as default
+- Material Color-Scheme
+- Dejavu fonts with powerline support
+- Agnoster Theme as default
 
 ### How to install
 
