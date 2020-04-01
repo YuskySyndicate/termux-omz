@@ -1,26 +1,26 @@
 # termux-omz
 
-Simple Script To Setup oh-my-zsh in **Termux** ...
+Simple Script To Setup *oh-my-zsh* in *Termux*.
 
 This Setup Contains-
 - *Material* Color-Scheme
 - *Dejavu* fonts with powerline support
 - *Agnoster* Theme as default
 
-### How To Install
+### How to install
 
 ```bash
 # First, clone this repository by typing...
 git clone https://github.com/adi1090x/termux-omz.git
 
 # Change to cloned directory
-$ cd termux-omz
+cd termux-omz
 
 # Make script executable
-$ chmod +x setup
+chmod +x setup
 
 # Run setup to finally install it
-$ ./setup
+./setup
 ```
 
 And... Done, `oh-my-zsh` successfully installed in your termux.
