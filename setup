@@ -2,6 +2,8 @@
 
 ## Author : Aditya Shakya
 ## Email  : adi1090x@gmail.com
+## Github : @adi1090x
+## Reddit : @adi1090x
 
 #colors
 R='\033[1;31m'
@@ -61,4 +63,3 @@ termux-reload-settings
 echo -e $R" [*] Setup Completed. Enjoy oh-my-zsh in Termux."
 echo
 exit
-
