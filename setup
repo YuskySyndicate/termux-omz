@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author : Aditya Shakya
-## Email  : adi1090x@gmail.com
-## Github : @adi1090x
-## Reddit : @adi1090x
+## Author : Yusril Syahruddin
+## Email  : yusrilsyahruddin@gmail.com
+## Github : yusrilsyahruddin
+## Reddit : yusrilsyahruddin
 
 #colors
 R='\033[1;31m'
@@ -21,7 +21,7 @@ echo -e $B" │   $R┏━┓╻ ╻   $Y┏┳┓╻ ╻   $G╺━┓┏━┓
 echo -e $B" │   $R┃ ┃┣━┫$C╺━╸$Y┃┃┃┗┳┛$C╺━╸$G┏━┛┗━┓┣━┫   $B│"
 echo -e $B" │   $R┗━┛╹ ╹   $Y╹ ╹ ╹    $G┗━╸┗━┛╹ ╹   $B│"
 echo -e $B" └─────────────────────────────────┘"
-echo -e $W"  By:$C Aditya Shakya"
+echo -e $W"  By:$C Yusril Syahruddin"
 echo
 
 echo
